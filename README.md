@@ -77,7 +77,7 @@ Academic tax comparison system for PF vs PJ calculations, including tax simulati
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrosgdevv&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrosgdevv&theme=tokyonight"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosgdevv&layout=compact&theme=tokyonight"/>
 </p>
