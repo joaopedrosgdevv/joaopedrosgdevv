@@ -74,11 +74,11 @@ Academic tax comparison system for PF vs PJ calculations, including tax simulati
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=joaopedrosgdevv&show_icons=true&theme=tokyonight&cache_seconds=1)
+![](https://github-readme-stats.vercel.app/api?username=joaopedrosgdevv&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaopedrosgdevv&layout=compact&theme=tokyonight&cache_seconds=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosgdevv&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
