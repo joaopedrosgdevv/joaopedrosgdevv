@@ -72,6 +72,11 @@ Financial management platform with dashboards, investment tracking, charts, and 
 ### 📊 DAFWEB
 Academic tax comparison system for PF vs PJ calculations, including tax simulations and PDF reports.
 
+### 📈 Vault Analytics AI
+Business intelligence and analytics platform focused on financial insights, sales analysis, KPI monitoring, dashboards, and data visualization for companies.
+
+Built with modern full stack technologies and focused on transforming business data into strategic decisions.
+
 ---
 
 ## 📊 GitHub Stats
